@@ -108,7 +108,10 @@ Distributed under the [GNU AGP v3.0](https://github.com/svanas/delphereum/blob/m
 
 I have no sponsors
 
-My role is Delphereum Study. Tutorial 'Connecting Delphi to the Ethereum main net'
-Project in Delphi made with source of this tutorial : https://svanas.medium.com/connecting-delphi-to-a-local-in-memory-blockchain-9a1512d6c5b0
-Prepared by Valient Newman <valient.newman@proton.me>
+My role is Delphereum Study. Tutorial 'Connecting Delphi to the Ethereum main net' 
+
+Project in Delphi made with source of this tutorial : https://svanas.medium.com/connecting-delphi-to-a-local-in-memory-blockchain-9a1512d6c5b0 
+
+Prepared by Valient Newman <valient.newman@proton.me> 
+
 My Github Repository <https://github.com/valient-newman>
