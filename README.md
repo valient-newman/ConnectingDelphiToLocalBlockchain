@@ -110,7 +110,7 @@ I have no sponsors
 
 My role is Delphereum Study. Tutorial 'Connecting Delphi to a local (in-memory) blockchain' 
 
-Project in Delphi made with source of this tutorial : https://svanas.medium.com/connecting-delphi-to-a-local-in-memory-blockchain-9a1512d6c5b0 
+Project in Delphi made with source of this tutorial: https://svanas.medium.com/connecting-delphi-to-a-local-in-memory-blockchain-9a1512d6c5b0 
 
 Prepared by Valient Newman <valient.newman@proton.me> 
 
